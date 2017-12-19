@@ -1,0 +1,93 @@
+/* TEMPLATE STYLES */
+
+main {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+
+#navbarSupportedContent {
+    flex-grow: initial;
+}
+
+.widget-wrapper {
+    padding-bottom: 2rem;
+    border-bottom: 1px solid #e0e0e0;
+    margin-bottom: 2rem;
+}
+
+.extra-margins {
+    margin-top: 1rem;
+    margin-bottom: 2.5rem;
+}
+
+.col-lg-4 {
+    display: flex;
+}
+
+.margin-bottom {
+    margin-bottom: 2rem;
+}
+
+.card {
+    width: 100%;
+}
+
+.card img {
+    max-height: 13rem;
+    margin: auto;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+}
+
+.card-body .badge {
+    margin-top: auto;
+}
+
+.navbar {
+    background-color: #414a5c;
+}
+
+footer.page-footer {
+    background-color: #414a5c;
+    margin-top: 2rem;
+}
+
+.list-group-item.active {
+    background-color: #2bbbad;
+    border-color: #2bbbad
+}
+
+.list-group-item:not(.active) {
+    color: #222;
+}
+
+.list-group-item:not(.active):hover {
+    color: #666;
+}
+.card {
+    font-weight: 300;
+}
+.navbar .btn-group .dropdown-menu a:hover {
+    color: #000 !important;
+}
+.navbar .btn-group .dropdown-menu a:active {
+    color: #fff !important;
+}
+
+.logo {
+    height: 10rem;
+    display: block;
+    margin: auto;
+}
+
+
+.accordion.accordion-3 {
+    border-radius: 3px; }
+.accordion.accordion-3 p {
+    font-size: 1rem; }
+.accordion.accordion-3 .fa.fa-angle-down {
+    margin-top: -10px; }
